@@ -1,0 +1,50 @@
+body{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.main-section{
+    margin: 0 auto;
+    margin-top:100px;
+    background-color: #0b0b0b;
+    border-radius: 5px;
+    padding: 0px;
+}
+
+.user-img{
+    margin-top:-50px;
+}
+.user-img img{
+    height: 100px;
+    width: 100px;
+}
+.user-name{
+    margin:10px 0px;
+}
+.user-name h1{
+    font-size:30px;
+    color:#676363;
+}
+.user-name button{
+    position: absolute;
+    top:-50px;
+    right:20px;
+    font-size:30px;
+    background-color: yellow;
+}
+.form-input button{
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: yellow;
+    color: khaki;
+}
+
+.link-part{
+    border-radius:0px 0px 5px 5px;
+    background-color: #FFFFFF;
+    padding:15px;
+    border-top:1px solid #c2c2c2;
+}
+
+.open-modal{
+    margin-top:100px !important;
+}
