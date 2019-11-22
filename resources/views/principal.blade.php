@@ -34,7 +34,7 @@
           </div>
         </div>
         <div class="item slides">
-          <div class="slide-3"><img src="images/banner3.jpg" alt="Barrister"/></div>
+          <div class="slide-3"><img src="images/meio_mundo.jpg" alt="Barrister"/></div>
           <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
             <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Keen Marques</h3>
                 <h1 data-animation="animated bounceInLeft" class="">Direito <span>Militar</span></h1>
@@ -159,32 +159,32 @@
       <div class="col-md-4 col-sm-6">
         <div class="service-item">
           <h3>Trabalhista</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="javascript:void(0)">Read More</a>
+          <p>Direito trabalhista é a área do Direito que cuida da relação entre empregados e empregadores.Criadas pela (OIT)</p>
+          <a href="javascript:void(0)">Ler Mais</a>
           <div class="icon-box"><img src="images/service-item-icon1.png" alt=""></div>
         </div>
       </div>
       <div class="col-md-4 col-sm-6">
         <div class="service-item">
           <h3>Família</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="javascript:void(0)">ler mais...</a>
+          <p>Direito de Família é a área do direito que estabelece e regula as normas da convivência familiar, contendo normas que abrangem .</p>
+          <a href="javascript:void(0)">Ler Mais...</a>
           <div class="icon-box"><img src="images/service-item-icon2.png" alt=""></div>
         </div>
       </div>
       <div class="col-md-4 col-sm-6">
         <div class="service-item">
           <h3>Bancários</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="javascript:void(0)">Ler mais...</a>
+          <p>O Direito Bancário é o ramo do Direito composto por regras e princípios que visam a regulamentação da atividade bancária.</p>
+          <a href="javascript:void(0)">Ler Mais...</a>
           <div class="icon-box"><img src="images/service-item-icon3.png" alt=""></div>
         </div>
       </div>
       <div class="col-md-4 col-sm-6">
         <div class="service-item">
           <h3>Cíveis</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="javascript:void(0)">Read More</a>
+          <p>O Direito Civil é um dos ramos do Direito de maior abrangência, pois através de um conjunto de normas, regulamenta as relações</p>
+          <a href="javascript:void(0)">Ler Mais</a>
           <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
         </div>
       </div>
@@ -192,8 +192,8 @@
        <div class="col-md-4 col-sm-6">
         <div class="service-item">
           <h3>Consumidor</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="javascript:void(0)">Read More</a>
+          <p>O Direito do Consumidor é o ramo do direito que lida com as relações jurídicas entre fornecedores de bens e serviços.</p>
+          <a href="javascript:void(0)">Ler Mais</a>
           <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
         </div>
       </div>
@@ -202,24 +202,24 @@
        <div class="col-md-4 col-sm-6">
         <div class="service-item">
           <h3>Prisão em Flagrante</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="javascript:void(0)">Read More</a>
+          <p>Art. 283. Ninguém poderá ser preso senão em flagrante delito ou por ordem escrita e fundamentada da autoridade</p>
+          <a href="javascript:void(0)">Ler Mais</a>
           <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
         </div>
       </div>
       <div class="col-md-4 col-sm-6">
         <div class="service-item">
           <h3>Audiência de Custódia</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="javascript:void(0)">Read More</a>
+          <p>A audiência de custódia é o instrumento processual que determina que todo preso em flagrante deve ser levado à presença da autoridade.</p>
+          <a href="javascript:void(0)">Ler Mais</a>
           <div class="icon-box"><img src="images/service-item-icon5.png" alt=""></div>
         </div>
       </div>
       <div class="col-md-4 col-sm-6">
         <div class="service-item">
           <h3>Assesoria Jurídica</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="javascript:void(0)">Read More</a>
+          <p>Assessor jurídico é um especialista em determinado assunto jurídico; pessoa que presta assessoria jurídica no âmbito administrativo e jurisdicional</p>
+          <a href="javascript:void(0)">Ler Mais</a>
           <div class="icon-box"><img src="images/service-item-icon6.png" alt=""></div>
         </div>
       </div>
