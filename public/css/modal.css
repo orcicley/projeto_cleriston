@@ -1,5 +1,5 @@
-body{
-    font-family: 'Barlow Semi Condensed', sans-serif;
+.animated bounceInLeftbody{
+color:blue;
 }
 
 .main-section{
@@ -40,7 +40,7 @@ body{
 
 .link-part{
     border-radius:0px 0px 5px 5px;
-    background-color: #FFFFFF;
+    background-color: blue;
     padding:15px;
     border-top:1px solid #c2c2c2;
 }

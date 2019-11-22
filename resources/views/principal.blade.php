@@ -12,33 +12,33 @@
       <!-- Wrapper for slides -->
       <div class="carousel-inner" role="listbox">
         <div class="item slides active">
-          <div class="slide-1"><img src="images/banner1.jpg" alt="Advogados Militares"/></div>
+          <div class="slide-1"><img src="images/about-video-wrapper-bg.jpg" alt="Advogados Militares"/></div>
           <div class="row">
             <div class="container">
               <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
-                <h3 data-animation="animated bounceInLeft" class="">With Lawyer & Attorney</h3>
-                <h1 data-animation="animated bounceInLeft" class="">every client <span>matters</span></h1>
-                </div>
+                <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Keen Marques</h3>
+                <h1 data-animation="animated bounceInLeft" class="">Direito <span>Militar</span></h1>
+                <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Consulta Agendada</a></div>
             </div>
           </div>
         </div>
         <div class="item slides">
-          <div class="slide-2"><img src="images/banner2.jpg" alt="Barrister"/></div>
+          <div class="slide-2"><img src="images/justica.jpg" alt="Barrister"/></div>
           <div class="row">
             <div class="container">
               <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
-                <h3 data-animation="animated bounceInLeft" class="">With Lawyer & Attorney</h3>
-                <h1 data-animation="animated bounceInLeft" class="">every client <span>matters</span></h1>
-                <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Request a free consultation</a></div>
+               <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Keen Marques</h3>
+                <h1 data-animation="animated bounceInLeft" class="">Direito <span>Militar</span></h1>
+                <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Consulta Agendada</a></div>
             </div>
           </div>
         </div>
         <div class="item slides">
           <div class="slide-3"><img src="images/banner3.jpg" alt="Barrister"/></div>
           <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
-            <h3 data-animation="animated bounceInLeft" class="">With Lawyer & Attorney</h3>
-            <h1 data-animation="animated bounceInLeft" class="">every client <span>matters</span></h1>
-            <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Request a free consultation</a></div>
+            <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Keen Marques</h3>
+                <h1 data-animation="animated bounceInLeft" class="">Direito <span>Militar</span></h1>
+            <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Consulta Agendada</a></div>
         </div>
       </div>
       <div class="slide-arrows"><a class="left carousel-control" href="#first-slider" data-slide="prev"><span class="transition3s glyphicon glyphicon-chevron-left fa fa-angle-left"></span></a> <a class="right carousel-control" href="#first-slider" data-slide="next"><span class="transition3s glyphicon glyphicon-chevron-right fa fa-angle-right"></span></a></div>
@@ -140,8 +140,8 @@
         </div>
         <div class="col-sm-10">
           <div class="experience-text">
-            <h2>20 Anos de experiência <span>em Vários Casos</span></h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an and scrambled it to make a type specimen book.</p>
+            <!--<h2>20 Anos de experiência <span>em Vários Casos</span></h2>-->
+            <p>ESCRITÓRIO ESPECIALIZADO EM CAUSAS TRABALHISTAS, EMPRESARIAIS, CÍVEIS, CRIMINAIS, CONSUMIDOR, MILITARES, JUIZADOS ESPECIAIS E TRIBUNAIS SUPERIORES</p>
           </div>
         </div>
       </div>
@@ -158,7 +158,7 @@
     <div class="row">
       <div class="col-md-4 col-sm-6">
         <div class="service-item">
-          <h3>Trabalhista & Bancário</h3>
+          <h3>Trabalhista</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           <a href="javascript:void(0)">Read More</a>
           <div class="icon-box"><img src="images/service-item-icon1.png" alt=""></div>
@@ -166,7 +166,7 @@
       </div>
       <div class="col-md-4 col-sm-6">
         <div class="service-item">
-          <h3>Propriedade intelectual</h3>
+          <h3>Família</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           <a href="javascript:void(0)">ler mais...</a>
           <div class="icon-box"><img src="images/service-item-icon2.png" alt=""></div>
@@ -174,7 +174,7 @@
       </div>
       <div class="col-md-4 col-sm-6">
         <div class="service-item">
-          <h3>Merger & Acquisition</h3>
+          <h3>Bancários</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           <a href="javascript:void(0)">Ler mais...</a>
           <div class="icon-box"><img src="images/service-item-icon3.png" alt=""></div>
@@ -182,7 +182,26 @@
       </div>
       <div class="col-md-4 col-sm-6">
         <div class="service-item">
-          <h3>Money Laundering</h3>
+          <h3>Cíveis</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          <a href="javascript:void(0)">Read More</a>
+          <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
+        </div>
+      </div>
+
+       <div class="col-md-4 col-sm-6">
+        <div class="service-item">
+          <h3>Consumidor</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          <a href="javascript:void(0)">Read More</a>
+          <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
+        </div>
+      </div>
+
+
+       <div class="col-md-4 col-sm-6">
+        <div class="service-item">
+          <h3>Prisão em Flagrante</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           <a href="javascript:void(0)">Read More</a>
           <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
@@ -190,7 +209,7 @@
       </div>
       <div class="col-md-4 col-sm-6">
         <div class="service-item">
-          <h3>Real Estate Constuction</h3>
+          <h3>Audiência de Custódia</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           <a href="javascript:void(0)">Read More</a>
           <div class="icon-box"><img src="images/service-item-icon5.png" alt=""></div>
@@ -198,7 +217,7 @@
       </div>
       <div class="col-md-4 col-sm-6">
         <div class="service-item">
-          <h3>Sexual Offences</h3>
+          <h3>Assesoria Jurídica</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           <a href="javascript:void(0)">Read More</a>
           <div class="icon-box"><img src="images/service-item-icon6.png" alt=""></div>
@@ -218,10 +237,11 @@
     <div class="row">
       <div class="col-sm-4">
         <div class="our-team-section">
-          <div class="img-box"> <img src="images/our-img01.jpg" alt="" title=""></div>
+          <div class="img-box"> <img src="images/dr_cleriston.png" alt="" title=""></div>
           <div class="team-info">
             <h3>Dr. Cleriston Vilhena</h3>
-            <h4>Onde Trabalha</h4>
+            <h4>
+Cleriston Vilhena Advogados</h4>
             <p>Av. Fab, 195.</p>
             <div class="social-icons">
               <ul>
@@ -235,11 +255,13 @@
       </div>
       <div class="col-sm-4">
         <div class="our-team-section">
-          <div class="img-box"> <img src="images/our-img2.jpg" alt="" title=""></div>
+          <div class="img-box"> <img src="images/dr_keen.png" alt="" title=""></div>
           <div class="team-info">
-            <h3>Person Name</h3>
-            <h4>Job Title</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+            <h3>KEEN MARQUES</h3>
+            <h4>
+Cleriston Vilhena Advogados</h4>
+            <p>Av. Fab, 195.</p>
+            <p>OAB/AP 4342</p>
             <div class="social-icons">
               <ul>
                 <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
@@ -252,11 +274,11 @@
       </div>
       <div class="col-sm-4">
         <div class="our-team-section">
-          <div class="img-box"> <img src="images/our-img3.jpg" alt="" title=""></div>
+          <div class="img-box"> <img src="images/samanta.jpg" alt="" title=""></div>
           <div class="team-info">
-            <h3>Person Name</h3>
-            <h4>Job Title</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+            <h3>SAMANTA DO NASCIMENTO</h3>
+            <h4>Cleriston Vilhena Advogados</h4>
+            <p>Av. Fab, 195.</p>
             <div class="social-icons">
               <ul>
                 <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>

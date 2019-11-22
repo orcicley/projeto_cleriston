@@ -466,7 +466,7 @@ header {
 	margin: 0 0 20px;
 }
 .banner-wrapper .hero h1 {
-	font-size: 80px;
+	font-size: 30px;
 	line-height: 70px;
 	font-weight: 700;
 	margin: 0 0 25px;
@@ -476,6 +476,7 @@ header {
 	font-weight: 600;
 	text-transform: uppercase;
 	text-align: center;
+	letter-spacing:10px;
 }
 .banner-wrapper .hero h1 span {
 	display: block;
@@ -633,7 +634,7 @@ header {
 	margin: 0 0 20px;
 }
 .callouts .btn-one {
-	background: black;
+	background: #222;
 	border: none;
 	color: khaki;
 }
@@ -642,7 +643,7 @@ header {
 	color: yellow;
 }
 .callouts .btn-one:hover {
-    color: white;
+    color: #222;
 	border: none;
 }
 /*** Consultation ***/
@@ -683,7 +684,7 @@ header {
 	color: white;
 }
 .consultaiton-form .btn-one:hover {
-	color: white;
+	color:#222;
 }
 /*
 ================================================
@@ -694,7 +695,8 @@ header {
 	float: left;
 	width: 100%;
 	padding: 83px 0 68px;
-	background-image: url(../images/experience-bg.jpg);
+	/*background-image: url(../images/experience-bg.jpg);*/
+	background:#222;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: left center;
@@ -710,7 +712,7 @@ header {
 	font-family: "Crimson Text", serif;
 	font-size: 55px;
 	font-weight: 700;
-	text-transform: uppercase;
+	text-transform: ca;
 	margin: 0;
 	line-height: 45px;
 }
@@ -2584,7 +2586,7 @@ div.faq-wrapper .panel-faq .panel-body {
 	display: none;
 }
 .banner-wrapper .hero h1 {
-	font-size: 46px;
+	font-size: 10px;
 	margin: 0 0 20px 0;
 	line-height: 50px;
 }
@@ -2603,7 +2605,7 @@ div.faq-wrapper .panel-faq .panel-body {
 }
 /* Banner */
 .banner-wrapper .hero p {
-	font-size: 30px;
+	font-size: 15px;
 }
 .banner-wrapper .hero h1 {
 	font-size: 40px;
@@ -2694,7 +2696,7 @@ div.faq-wrapper .panel-faq .panel-body {
 @media (min-width: 768px) and (max-width: 991px) {
 /* Common Css */
 section h2 {
-	font-size: 36px;
+	font-size: 16px;
 }
 /* Nav */
 .logo-wrapper {
@@ -2725,7 +2727,7 @@ nav.pull-right {
 	margin: 0;
 }
 .banner-wrapper .hero h1 {
-	font-size: 25px;
+	font-size: 10px;
 	line-height: 25px;
 	text-align: center;
 	margin: 0 0 10px;
