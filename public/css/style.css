@@ -60,6 +60,7 @@ Table of Content
 	margin: 0;
 	padding: 0;
 }
+
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 15px;
@@ -774,6 +775,49 @@ header {
 .service-item a:hover {
 	text-decoration: underline;
 }
+
+
+
+.associados{
+	
+	color:#fff;
+}
+
+
+.service-item2 {
+	background-color: #686161 !important ;
+	border: 1px solid #fff;
+	float: left;
+	margin: 40px 0 50px;
+	padding: 20px 20px 60px;
+	text-align: center;
+	width: 100%;
+	position: relative;
+}
+.service-item2 > p{
+color:#fff;
+}
+.service-item2 h3 {
+	color: #fff;
+	font-size: 20px;
+	font-weight: 700;
+	margin: 0 0 15px;
+	padding: 0;
+	font-family: "Crimson Text", serif;
+	text-transform: uppercase;
+}
+.service-item2 a {
+	color: #fff;
+	margin: 0 0 20px;
+}
+.service-item2 a:hover {
+	text-decoration: underline;
+}
+
+
+
+
+
 .icon-box {
 	background-color: black;
 	bottom: -30px;
@@ -2650,6 +2694,14 @@ div.faq-wrapper .panel-faq .panel-body {
 .service-item h3 {
 	font-size: 18px;
 }
+
+
+/*Tamanho h3 de sitem2*/
+.service-item2 h3 {
+	font-size: 18px;
+}
+/*Tamanho h3 de sitem2*/
+
 /*** Barrister News Letter Wrapper ***/	
 .newsletter .heading i {
 	font-weight: 40px;
