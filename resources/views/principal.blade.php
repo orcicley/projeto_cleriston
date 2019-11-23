@@ -239,7 +239,7 @@
       <div class="col-md-4 col-sm-6" class="associados">
         <div class="service-item2">
           <h3>Trabalhista</h3>
-          <p>Direito trabalhista é a área do Direito que cuida da relação entre empregados e empregadores.Criadas pela (OIT)</p>
+          <p><img src="images/aspometerfa_associados.png" alt=""></p>
           <a href="javascript:void(0)">Ler Mais</a>
           <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
         </div>
