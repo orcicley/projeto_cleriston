@@ -325,6 +325,19 @@ header {
 	width: 5px;
 	border: none;
 }
+.navbar-nav .care_down {
+	background:#dde68c;
+	bottom: -8px;
+	display: block;
+	height: 5px;
+	left: 50%;
+	margin-left: -4px;
+	position: absolute;
+	text-align: center;
+	transform: rotate(45deg);
+	width: 5px;
+	border: none;
+}
 .navbar-nav > li > .dropdown-menu li {
 	border: none;
 }

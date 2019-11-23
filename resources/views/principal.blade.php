@@ -12,7 +12,7 @@
       <!-- Wrapper for slides -->
       <div class="carousel-inner" role="listbox">
         <div class="item slides active">
-          <div class="slide-1"><img src="images/about-video-wrapper-bg.jpg" alt="Advogados Militares"/></div>
+          <div class="slide-1"><img src="images/slide1.jpg" alt="Advogados Militares"/></div>
           <div class="row">
             <div class="container">
               <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
@@ -23,7 +23,7 @@
           </div>
         </div>
         <div class="item slides">
-          <div class="slide-2"><img src="images/justica.jpg" alt="Barrister"/></div>
+          <div class="slide-2"><img src="images/algema.jpg" alt="Barrister"/></div>
           <div class="row">
             <div class="container">
               <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
@@ -33,12 +33,12 @@
             </div>
           </div>
         </div>
-        <div class="item slides">
+        <!--<div class="item slides">
           <div class="slide-3"><img src="images/meio_mundo.jpg" alt="Barrister"/></div>
           <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
             <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Keen Marques</h3>
                 <h1 data-animation="animated bounceInLeft" class="">Direito <span>Militar</span></h1>
-            <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Consulta Agendada</a></div>
+            <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Consulta Agendada</a></div>--->
         </div>
       </div>
       <div class="slide-arrows"><a class="left carousel-control" href="#first-slider" data-slide="prev"><span class="transition3s glyphicon glyphicon-chevron-left fa fa-angle-left"></span></a> <a class="right carousel-control" href="#first-slider" data-slide="next"><span class="transition3s glyphicon glyphicon-chevron-right fa fa-angle-right"></span></a></div>

@@ -1,3 +1,6 @@
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,20 +16,26 @@
 <!-- Font Awesome CSS-->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<link href="{{url('/')}}/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+<!--<link href="{{url('/')}}/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">-->
 <!-- Linear icons CSS-->
 <link href="{{url('/')}}/assets/linearicons/css/icon-font.min.css" rel="stylesheet">
 <!-- magnific Css -->
 <link href="{{url('/')}}/assets/css/magnific-popup.css" rel="stylesheet">
 <!-- Animate CSS -->
 <link href="{{url('/')}}/assets/animate/animate.css" rel="stylesheet">
+<link href="{{url('/')}}/assets/fonts/fontawesome-webfont.svg@v=4.7.0" rel="stylesheet">
+<link href="{{url('/')}}/assets/fontawesome/css/fontawesome.min.css" rel="stylesheet">
 <!-- Owl Carousel -->
 <link href="{{url('/')}}/assets/owl-carousel/css/owl.carousel.css" rel="stylesheet">
 <link href="{{url('/')}}/assets/owl-carousel/css/owl.theme.css" rel="stylesheet">
 <!-- Custom CSS -->
+<!--PRINCIPAL PRINCIPAL PRINCIPAL PRINCIAPAL PRINCIPAL PRINCIPAL--->
+<!--PRINCIPAL PRINCIPAL PRINCIPAL PRINCIAPAL PRINCIPAL PRINCIPAL--->
+<!--PRINCIPAL PRINCIPAL PRINCIPAL PRINCIAPAL PRINCIPAL PRINCIPAL--->
 <link href="{{url('/')}}/css/style.css" rel="stylesheet">
+<!--PRINCIPAL PRINCIPAL PRINCIPAL PRINCIAPAL PRINCIPAL PRINCIPAL--->
 <!-- Favicon -->
-<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+<!--<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">-->
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
@@ -148,7 +157,7 @@
 <div class="footer-wrapper">
   <div class="container">
     <div class="row">
-      <div class="col-sm-6 col-md-4"> <img src="{{url('/')}}/images/footer-logo.png" alt="" data-popupalt-original-title="null" title="">
+      <div class="col-sm-6 col-md-4"> <img src="{{url('/')}}/images/associados.png" alt="" data-popupalt-original-title="null" title="">
         <p>O bem que praticas em qualquer lugar será teu advogado em toda parte. <a style="font-size: 12px; font-family:verdana; font-style: italic; font-color: white" >Emmanuel</a></p>
         <ul class="social-icons">
           <li><a href="javascript:void(0)"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -196,10 +205,10 @@
 <!-- Copyright Start -->
 <div class="copyright-wrapper">
   <div class="container">
-    <p>&copy; Linformática 2018, Cleriston Vilhena Advogados  | Todos os Direitos Reservados.</p>
+    <p>&copy; Linformática <script> var data = new Date();document.write(data.getFullYear())</script>, Cleriston Vilhena Advogados  | Todos os Direitos Reservados.</p>
   </div>
 </div>
-<!-- Copyright styles End --> 
+<!-- Copyright styles End getYear()--> 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="{{url('/')}}/assets/jquery/jquery-3.1.1.min.js"></script> 

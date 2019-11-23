@@ -245,6 +245,11 @@ th {
   .dropup > .btn > .caret {
     border-top-color: #000 !important;
   }
+
+  .btn > .caret_down,
+  .dropup > .btn > .caret_down {
+    border-top-color: #000 !important;
+  }
   .label {
     border: 1px solid #000;
   }
@@ -3510,6 +3515,17 @@ tbody.collapse.in {
   border-right: 4px solid transparent;
   border-left: 4px solid transparent;
 }
+.caret_down {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin-left: 2px;
+  vertical-align: middle;
+  border-top: 4px dashed;
+  border-top: 4px solid \9;
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
+}
 .dropup,
 .dropdown {
   position: relative;
@@ -3621,6 +3637,14 @@ tbody.collapse.in {
 }
 .dropup .caret,
 .navbar-fixed-bottom .dropdown .caret {
+  content: "";
+  border-top: 0;
+  border-bottom: 4px dashed;
+  border-bottom: 4px solid \9;
+}
+
+.dropup .caret_down,
+.navbar-fixed-bottom .dropdown .caret_down {
   content: "";
   border-top: 0;
   border-bottom: 4px dashed;
