@@ -16,7 +16,7 @@
           <div class="row">
             <div class="container">
               <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
-                <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Keen Marques</h3>
+                <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Dr Keen Marques</h3>
                 <h1 data-animation="animated bounceInLeft" class="">Direito <span>Militar</span></h1>
                 <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Consulta Agendada</a></div>
             </div>
@@ -27,8 +27,8 @@
           <div class="row">
             <div class="container">
               <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
-               <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Keen Marques</h3>
-                <h1 data-animation="animated bounceInLeft" class="">Direito <span>Militar</span></h1>
+               <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Dr Keen Marques</h3>
+                <h1 data-animation="animated bounceInLeft" class="">Direito <span>Criminal</span></h1>
                 <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Consulta Agendada</a></div>
             </div>
           </div>
@@ -161,23 +161,23 @@
           <h3>Trabalhista</h3>
           <p>Direito trabalhista é a área do Direito que cuida da relação entre empregados e empregadores.Criadas pela (OIT)</p>
           <a href="javascript:void(0)">Ler Mais</a>
-          <div class="icon-box"><img src="images/service-item-icon1.png" alt=""></div>
+          <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
         </div>
       </div>
       <div class="col-md-4 col-sm-6">
         <div class="service-item">
           <h3>Família</h3>
           <p>Direito de Família é a área do direito que estabelece e regula as normas da convivência familiar, contendo normas que abrangem .</p>
-          <a href="javascript:void(0)">Ler Mais...</a>
-          <div class="icon-box"><img src="images/service-item-icon2.png" alt=""></div>
+          <a href="javascript:void(0)">Ler Mais</a>
+          <div class="icon-box"><img src="images/service-item-icon3.png" alt=""></div>
         </div>
       </div>
       <div class="col-md-4 col-sm-6">
         <div class="service-item">
           <h3>Bancários</h3>
           <p>O Direito Bancário é o ramo do Direito composto por regras e princípios que visam a regulamentação da atividade bancária.</p>
-          <a href="javascript:void(0)">Ler Mais...</a>
-          <div class="icon-box"><img src="images/service-item-icon3.png" alt=""></div>
+          <a href="javascript:void(0)">Ler Mais</a>
+          <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
         </div>
       </div>
       <div class="col-md-4 col-sm-6">
@@ -212,7 +212,7 @@
           <h3>Audiência de Custódia</h3>
           <p>A audiência de custódia é o instrumento processual que determina que todo preso em flagrante deve ser levado à presença da autoridade.</p>
           <a href="javascript:void(0)">Ler Mais</a>
-          <div class="icon-box"><img src="images/service-item-icon5.png" alt=""></div>
+          <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
         </div>
       </div>
       <div class="col-md-4 col-sm-6">
@@ -220,7 +220,7 @@
           <h3>Assesoria Jurídica</h3>
           <p>Assessor jurídico é um especialista em determinado assunto jurídico; pessoa que presta assessoria jurídica no âmbito administrativo e jurisdicional</p>
           <a href="javascript:void(0)">Ler Mais</a>
-          <div class="icon-box"><img src="images/service-item-icon6.png" alt=""></div>
+          <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
         </div>
       </div>
     </div>
@@ -228,6 +228,46 @@
 </div>
 
 <!-- Barrister Our Team Wrapper Start -->
+
+<!--associados-->
+<div class="barrister-service-wrapper">
+  <div class="container">
+    <div class="title"> <span class="title-border-img"><img src="images/h1-line-img1.png" alt=""></span>
+      <h2>Associados</h2>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-sm-6" class="associados">
+        <div class="service-item2">
+          <h3>Trabalhista</h3>
+          <p>Direito trabalhista é a área do Direito que cuida da relação entre empregados e empregadores.Criadas pela (OIT)</p>
+          <a href="javascript:void(0)">Ler Mais</a>
+          <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6" class="associados">
+        <div class="service-item2">
+          <h3>Família</h3>
+          <p>Direito de Família é a área do direito que estabelece e regula as normas da convivência familiar, contendo normas que abrangem .</p>
+          <a href="javascript:void(0)">Ler Mais</a>
+          <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6" class="associados">
+        <div class="service-item2">
+          <h3>Bancários</h3>
+          <p>O Direito Bancário é o ramo do Direito composto por regras e princípios que visam a regulamentação da atividade bancária.</p>
+          <a href="javascript:void(0)">Ler Mais</a>
+          <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
+        </div>
+      </div>
+  
+
+
+      
+    </div>
+  </div>
+</div>
+<!--fim associados-->
 
 <div class="barrister-our-team-wrapper">
   <div class="container">
