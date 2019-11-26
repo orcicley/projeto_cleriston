@@ -235,33 +235,57 @@
     <div class="title"> <span class="title-border-img"><img src="images/h1-line-img1.png" alt=""></span>
       <h2>Associados</h2>
     </div>
+    <br>
+    <br>
     <div class="row">
-      <div class="col-md-4 col-sm-6" class="associados">
-        <div class="service-item2">
-          <h3>Trabalhista</h3>
-          <p><img src="images/aspometerfa_associados.png" alt=""></p>
-          <a href="javascript:void(0)">Ler Mais</a>
-          <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
-        </div>
+ <main>
+  <div class="caixa_associados">
+      <div class="barra1">
+        <h3>Aspometerfa</h3>
       </div>
-      <div class="col-md-4 col-sm-6" class="associados">
-        <div class="service-item2">
-          <h3>Família</h3>
-          <p>Direito de Família é a área do direito que estabelece e regula as normas da convivência familiar, contendo normas que abrangem .</p>
-          <a href="javascript:void(0)">Ler Mais</a>
-          <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
+        
+        <div class="logo_associados">
+          <img src="images/aspometerfa_associados.png" alt="">
         </div>
-      </div>
-      <div class="col-md-4 col-sm-6" class="associados">
-        <div class="service-item2">
-          <h3>Bancários</h3>
-          <p>O Direito Bancário é o ramo do Direito composto por regras e princípios que visam a regulamentação da atividade bancária.</p>
-          <a href="javascript:void(0)">Ler Mais</a>
-          <div class="icon-box"><img src="images/service-item-icon4.png" alt=""></div>
-        </div>
-      </div>
-  
 
+
+      <div class="barra2">
+        <a href=""><p class="barra_p">Conheça nossa História</p></a>
+      </div>
+  </div>
+
+  <div class="caixa_associados">
+      <div class="barra1">
+        <h3>Aspometerfa</h3>
+      </div>
+        
+        <div class="logo_associados">
+          <img src="images/aspometerfa_associados.png" alt="">
+        </div>
+
+
+      <div class="barra2">
+       <a href=""><p class="barra_p">Conheça nossa História</p></a>
+      </div>
+  </div>
+
+
+
+  <div class="caixa_associados">
+      <div class="barra1">
+        <h3>Aspometerfa</h3>
+      </div>
+        
+        <div class="logo_associados">
+          <img src="images/aspometerfa_associados.png" alt="">
+        </div>
+
+
+      <div class="barra2">
+        <a href=""><p class="barra_p">Conheça nossa História</p></a>
+      </div>
+  </div>
+</main>
 
       
     </div>

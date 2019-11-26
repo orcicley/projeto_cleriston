@@ -78,6 +78,7 @@ a {
 }
 p {
 	margin: 0 0 15px;
+
 }
 a:hover {
 	color: #2a2a2a;
@@ -735,7 +736,11 @@ header {
 }
 .experience-text p {
 	color: #fff;
+
 }
+
+
+
 /*
 ================================================
 10. Barrister Services Wrapper
@@ -796,6 +801,7 @@ header {
 }
 .service-item2 > p{
 color:#fff;
+justify-conte
 }
 .service-item2 h3 {
 	color: #fff;
