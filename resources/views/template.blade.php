@@ -80,7 +80,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="{{url('/')}}">Início</a></li>
-                <li class="nav-item"><a href="{{url('/contato')}}" class="nav-link">Sobre Nós</a></li>
+                <li class="nav-item"><a href="{{url('/home')}}" class="nav-link">Sobre Nós</a></li>
                 <li class="dropdown"><a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-scroll-nav="2">Páginas <span class="caret"></span></a>
                   <ul class="dropdown-menu">
                     <li><a href="{{url('/contato')}}" data-scroll-nav="3">Sobre Nós</a></li>
@@ -106,6 +106,7 @@
                 <!-- <li><a href="myModal" data-toggle="modal">Login</a></li> -->
                 <!-- Aqui por enquanto o modal está sendo substituído pelo painel do AdminLTE -->
                 <li><a href="{{url('/home')}}">Login</a></li>
+                <li><a href="{{url('/contato')}}">Contatos</a></li>
               </ul>
             </div>
             <!-- /.navbar-collapse --> 
