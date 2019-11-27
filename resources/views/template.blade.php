@@ -2,7 +2,7 @@
 
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -185,7 +185,7 @@
       </div>
       <div class="col-sm-12 col-md-3">
         <div class="form-section">
-            <h2><img src="{{url('/')}}/images/contact-icon.png" alt=""/>Faça Uma Pergunta</h2>
+            <h2><img src="{{url('/')}}/images/logo2.png" alt=""/>Faça Uma Pergunta</h2>
             <form action="#">
               <div class="form-group">
                 <input name="phone" placeholder="Fone" type="text">

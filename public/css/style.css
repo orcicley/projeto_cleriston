@@ -1371,14 +1371,14 @@ justify-conte
 }
 .barrister-cta-wrapper .btn-one:before {
    background:#9f280c;
-   border-color:#9f280c;
+   border-color:khaki;
    border-radius: 6px;
 	}
 .barrister-cta-wrapper .btn-one {
   border-radius: 10px;
   margin: 10px 0 0;
   padding: 8px 20px;
-  border-color:#9f280c;
+  border-color:##d8c243;
   color:#9f280c;
 }
 .barrister-cta-wrapper .btn-one:hover, .barrister-cta-wrapper .btn-one:focus, .btn-one:active {
@@ -2456,8 +2456,8 @@ div.faq-wrapper .panel-faq .panel-body {
 }
 .map-wrapper .btn-one {
 	border:none;
-	color:#9f280c;
-	background:#ffe3c4;
+	color:#fff;
+	background:#d8c243;
 	float:right;
 	padding:10px 40px 12px;
 	}

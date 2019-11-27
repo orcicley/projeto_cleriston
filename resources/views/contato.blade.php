@@ -3,7 +3,7 @@
 @section('contato')
 
 <!-- Breadcrumb Wrapper Start -->
-<div class="breadcrumb-wrapper">
+<!--<div class="breadcrumb-wrapper">
   <div class="container">
     <div class="breadcrumb-text">
       <h1>Contate-nos</h1>
@@ -15,7 +15,7 @@
       </div>
     </div>
   </div>
-</div>
+</div>-->
 <!-- Breadcrumb Wrapper End --> 
 <!-- Barrister Inner page Wrapper Start -->
 <div class="inner-page-wrapper contact-wrapper">
@@ -28,17 +28,17 @@
           </h3>
         </div>
         <div class="add m-left-40"><i><img src="images/phone-icon.png" alt=""></i>
-          <h3>Telefones <span>(096) 345-6789, (123) 456-7890</span> </h3>
+          <h3>Telefones <span>(096) 99108-1212</span> </h3>
           </h3>
         </div>
         <div class="add m-left-80 last"><i><img src="images/email-icon.png" alt=""></i>
-          <h3>EMAILS <span><a href="mailto:info@sbtechnosoft.com">info@sbtechnosoft.com</a></span> </h3>
+          <h3>EMAILS <span><a href="mailto:info@sbtechnosoft.com">cleristonvilhena@bol.com.br</a></span> </h3>
           </h3>
         </div>
       </div>
     </div>
     <div class="col-sm-5">
-      <div class="contact-img"> <img src="images/contact-img.png" alt=""> </div>
+      <div class="contact-img"> <img src="images/.png" alt=""> </div>
     </div>
   </div>
 </div>

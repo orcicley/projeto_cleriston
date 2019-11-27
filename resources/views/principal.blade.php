@@ -3,7 +3,12 @@
 @section('content')
 
 
-<!-- Banner Wrapper Start -->
+<!--Inicio dos slider-->
+<!--Inicio dos slider-->
+<!--Inicio dos slider-->
+<!--Inicio dos slider-->
+
+
 <div class="banner-wrapper">
   <div id="first-slider" class="carousel fade-carousel slide">
     <div id="carousel-example-generic" class="carousel slide carousel-fade"> 
@@ -11,40 +16,70 @@
       <div class="overlay"></div>
       <!-- Wrapper for slides -->
       <div class="carousel-inner" role="listbox">
-        <div class="item slides active">
-          <div class="slide-1"><img src="images/slide1.jpg" alt="Advogados Militares"/></div>
-          <div class="row">
-            <div class="container">
-              <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
-                <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Dr Keen Marques</h3>
-                <h1 data-animation="animated bounceInLeft" class="">Direito <span>Militar</span></h1>
-                <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Consulta Agendada</a></div>
+
+            <div class="item slides active">
+              <div class="slide-1"><img src="images/slide1.jpg" alt="Advogados Militares"/></div>
+              <div class="row">
+                <div class="container">
+                  <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
+                    <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Dr Keen Marques</h3>
+                    <h1 data-animation="animated bounceInLeft" class="">Direito <span>Militar</span></h1>
+                    <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Consulta Agendada</a></div>
+                </div>
+              </div>
             </div>
-          </div>
-        </div>
+
         <div class="item slides">
           <div class="slide-2"><img src="images/algema.jpg" alt="Barrister"/></div>
-          <div class="row">
-            <div class="container">
-              <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
-               <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Dr Keen Marques</h3>
-                <h1 data-animation="animated bounceInLeft" class="">Direito <span>Criminal</span></h1>
-                <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Consulta Agendada</a></div>
+            <div class="row">
+                <div class="container">
+                    <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
+                     <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Dr Keen Marques
+                     </h3>
+                      <h1 data-animation="animated bounceInLeft" class="">Direito <span>Criminal</span>
+                      </h1>
+                      <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Consulta Agendada</a>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-        <!--<div class="item slides">
-          <div class="slide-3"><img src="images/meio_mundo.jpg" alt="Barrister"/></div>
-          <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
-            <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Keen Marques</h3>
+
+
+  <!--Terceiro slider inicio-->
+  <!--Terceiro slider inicio-->
+  <!--Terceiro slider inicio-->
+  <!--Terceiro slider inicio-->
+
+        <!--
+        <div class="item slides">
+            <div class="slide-3"><img src="images/meio_mundo.jpg" alt="Barrister"/></div>
+        <div class="hero"> <img class="icon" data-animation="animated bounceInLeft" src="images/logo2.png" alt="">
+                     <h3 data-animation="animated bounceInLeft" class="">Dr Cleriston Vilhena & Keen Marques</h3>
                 <h1 data-animation="animated bounceInLeft" class="">Direito <span>Militar</span></h1>
-            <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Consulta Agendada</a></div>--->
+        <a class="btn-one" data-animation="animated bounceInLeft" href="javascript:void(0)">Consulta Agendada</a></div>
+        --->
+
+    <!--Terceiro slider Fim-->
+    <!--Terceiro slider Fim-->
+    <!--Terceiro slider Fim-->
+    <!--Terceiro slider Fim-->
+
+
         </div>
       </div>
       <div class="slide-arrows"><a class="left carousel-control" href="#first-slider" data-slide="prev"><span class="transition3s glyphicon glyphicon-chevron-left fa fa-angle-left"></span></a> <a class="right carousel-control" href="#first-slider" data-slide="next"><span class="transition3s glyphicon glyphicon-chevron-right fa fa-angle-right"></span></a></div>
     </div>
   </div>
 </div>
+
+
+<!--Fim dos slider-->
+<!--Fim dos slider-->
+<!--Fim dos slider-->
+<!--Fim dos slider-->
+
+
+
 <!-- Banner Wrapper End --> 
 <!-- Informativos Início -->
 <div class="barrister-callouts-wrapper">
@@ -59,30 +94,30 @@
             <div class="row">
               <div class="col-sm-6">
                 <div class="callouts callout-img1">
-                  <h3>CORPORATIVAS E <span>LEIS COMERCIAIS</span></h3>
+                  <h3>REFORMA<span>TRABALHISTA</span></h3>
                   <span class="callouts-line"><img src="images/callouts-line.png" alt=""></span>
-                  <p>Etiam commodo mollis felis hendrerit auctor. Mauris eu urna bibendum tortor molestie tincidunt</p>
+                  <p>Reforma trabalhista é aprovada no Senado; confira o que muda na lei, depende de sãnção do presidente.</p>
                   <a class="btn-one" href="{{url('/informativo')}}">Ler Mais</a> </div>
               </div>
               <div class="col-sm-6">
                 <div class="callouts callout-img2">
-                  <h3>Leis <span>Previdenciárias</span></h3>
+                  <h3> <span>Prisão em Segunda Instância</span></h3>
                   <span class="callouts-line"><img src="images/callouts-line.png" alt=""></span>
-                  <p>Etiam commodo mollis felis hendrerit auctor. Mauris eu urna bibendum tortor molestie tincidunt</p>
+                  <p>A decisão valerá para todas as instâncias do Judiciário e será de cumprimento obrigatório.</p>
                   <a class="btn-one" href="javascript:void(0)">Ler Mais</a> </div>
               </div>
               <div class="col-sm-6">
                 <div class="callouts callout-img3">
-                  <h3>Banking and <span>Finance</span></h3>
+                  <h3>Prisão em Flagrante <span></span></h3>
                   <span class="callouts-line"><img src="images/callouts-line.png" alt=""></span>
-                  <p>Etiam commodo mollis felis hendrerit auctor. Mauris eu urna bibendum tortor molestie tincidunt</p>
+                  <p>Trata-se de forma de cerceamento momentâneo da liberdade de quem é encontrado praticando um crime. O seu objetivo, dentre outros, é evitar a consumação ou o exaurimento </p>
                   <a class="btn-one" href="javascript:void(0)">Ler Mais</a> </div>
               </div>
               <div class="col-sm-6">
                 <div class="callouts callout-img4">
-                  <h3>LIQUIDATION and <span>INSOLVENCY</span></h3>
+                  <h3><span>Crimes inafiançaveis</span></h3>
                   <span class="callouts-line"><img src="images/callouts-line.png" alt=""></span>
-                  <p>Etiam commodo mollis felis hendrerit auctor. Mauris eu urna bibendum tortor molestie tincidunt</p>
+                  <p>São inafiançáveis, segundo a Constituição Federal de 1988, os crimes de "tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos</p>
                   <a class="btn-one" href="javascript:void(0)">Ler Mais</a> </div>
               </div>
             </div>
@@ -230,10 +265,12 @@
 <!-- Barrister Our Team Wrapper Start -->
 
 <!--associados-->
+<div class="associados_flexflex">
+<div class="associados_flex">
 <div class="barrister-service-wrapper">
   <div class="container">
     <div class="title"> <span class="title-border-img"><img src="images/h1-line-img1.png" alt=""></span>
-      <h2>Associados</h2>
+      <h2>Parceiros</h2>
     </div>
     <br>
     <br>
@@ -291,6 +328,9 @@
     </div>
   </div>
 </div>
+</div>
+</div>
+
 <!--fim associados-->
 
 <div class="barrister-our-team-wrapper">
@@ -356,96 +396,7 @@ Cleriston Vilhena Advogados</h4>
     </div>
   </div>
 </div>
-<!-- Barrister Our Team Wrapper end --> 
 
-<!-- Barrister Video Wrapper begin 
-<div class="barrister-video-wrapper">
-  <div class="container">
-     <div class="title"> <span class="title-border-img"><img src="images/h1-line-img-white.png" alt=""></span>
-      <h2 style="color: white">Video de Eventos</h2>
-    </div>
-    <div class="row">
-      <div class="col-sm-12 col-md-5">
-        <div class="video-wrapper"> <a href="https://www.youtube.com/watch?v=MWjk8asP2e8" class="btn btn-default" data-popup="video"> <img src="images/video-img.jpg" alt=""> </a> </div>
-      </div>
-      <div class="col-sm-12 col-md-7">
-        <div class="testimonials-wrapper">
-          <div id="our-testimonials" class="owl-carousel owl-theme">
-            <div class="item">
-              <div class="testimonials-inner">
-                <div class="testmonials-pic"> <img src="images/testimonials1.png" alt=""> </div>
-                <div class="test-quote">
-                  <p>Nos reunimos em conferência na semana passada e fizemos uma viagem para adquirir mais conhecimento no assunto .</p>
-                  <h3>CONFERÊNCIAS | REUNIÃO</h3>
-                </div>
-              </div>
-              <div class="testimonials-inner">
-                <div class="testmonials-pic"> <img src="images/testimonials2.png" alt=""> </div>
-                <div class="test-quote">
-                  <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,pisci velit, sed quia non .</p>
-                  <h3>SAMUEL MORRIS | PARALEGAL</h3>
-                </div>
-              </div>
-              <div class="testimonials-inner">
-                <div class="testmonials-pic"> <img src="images/testimonials3.png" alt=""> </div>
-                <div class="test-quote">
-                  <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,pisci velit, sed quia non .</p>
-                  <h3>MAYA ANGELOU | LAW CLERK</h3>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="testimonials-inner">
-                <div class="testmonials-pic"> <img src="images/testimonials1.png" alt=""> </div>
-                <div class="test-quote">
-                  <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,pisci velit, sed quia non .</p>
-                  <h3>ELLEN G. WHITE | SECRET SERVICE</h3>
-                </div>
-              </div>
-              <div class="testimonials-inner">
-                <div class="testmonials-pic"> <img src="images/testimonials2.png" alt=""> </div>
-                <div class="test-quote">
-                  <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,pisci velit, sed quia non .</p>
-                  <h3>SAMUEL MORRIS | PARALEGAL</h3>
-                </div>
-              </div>
-              <div class="testimonials-inner">
-                <div class="testmonials-pic"> <img src="images/testimonials3.png" alt=""> </div>
-                <div class="test-quote">
-                  <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,pisci velit, sed quia non .</p>
-                  <h3>MAYA ANGELOU | LAW CLERK</h3>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="testimonials-inner">
-                <div class="testmonials-pic"> <img src="images/testimonials1.png" alt=""> </div>
-                <div class="test-quote">
-                  <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,pisci velit, sed quia non .</p>
-                  <h3>ELLEN G. WHITE | SECRET SERVICE</h3>
-                </div>
-              </div>
-              <div class="testimonials-inner">
-                <div class="testmonials-pic"> <img src="images/testimonials2.png" alt=""> </div>
-                <div class="test-quote">
-                  <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,pisci velit, sed quia non .</p>
-                  <h3>SAMUEL MORRIS | PARALEGAL</h3>
-                </div>
-              </div>
-              <div class="testimonials-inner">
-                <div class="testmonials-pic"> <img src="images/testimonials3.png" alt=""> </div>
-                <div class="test-quote">
-                  <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,pisci velit, sed quia non .</p>
-                  <h3>MAYA ANGELOU | LAW CLERK</h3>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 @endsection
 

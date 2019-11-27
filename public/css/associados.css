@@ -3,9 +3,11 @@
 	height:260px;
 	background:#423d3d;
 	display:flex;
-	flex-direction:column;
-	justify-content:space-between;
+	flex-wrap:wrap;
+	justify-content:space-around;
+
 }
+
 .barra1{
 	width:100%;
 	height:50px;
@@ -34,6 +36,21 @@
 .barra_p{
 	text-align:center;
 	color:#fff;
+
+}
+.barra2 > a > p{
+	background:black;
+
+	opacity:0.8;
+	width:40%;
+	height:50px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.barra2 > a > p:hover{
+	background:khaki;
+	color:#222;
+	font-weight:bold;
 }
 main{
 	display:flex;
