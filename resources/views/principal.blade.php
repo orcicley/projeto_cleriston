@@ -345,8 +345,8 @@
           <div class="team-info">
             <h3>Dr. Cleriston Vilhena</h3>
             <h4>
-Cleriston Vilhena Advogados</h4>
-            <p>Av. Fab, 195.</p>
+</h4>
+            <p></p>
             <p>OAB/AP 2269</p>
             <div class="social-icons">
               <ul>
@@ -364,8 +364,8 @@ Cleriston Vilhena Advogados</h4>
           <div class="team-info">
             <h3>Dr. KEEN MARQUES</h3>
             <h4>
-Cleriston Vilhena Advogados</h4>
-            <p>Av. Fab, 195.</p>
+</h4>
+            <p></p>
             <p>OAB/AP 4342</p>
             <div class="social-icons">
               <ul>
@@ -382,8 +382,8 @@ Cleriston Vilhena Advogados</h4>
           <div class="img-box"> <img src="images/samanta2.jpg" alt="" title=""></div>
           <div class="team-info">
             <h3>Dra. SAMANTA DO NASCIMENTO</h3>
-            <h4>Cleriston Vilhena Advogados</h4>
-            <p>Av. Fab, 195.</p>
+            <h4></h4>
+            <p></p>
             <p>OAB/AP 3916</p>
             <div class="social-icons">
               <ul>
@@ -401,8 +401,8 @@ Cleriston Vilhena Advogados</h4>
           <div class="img-box"> <img src="images/alessandra.jpg" alt="" title=""></div>
           <div class="team-info">
             <h3>Dra. ALESSANDRA CAMPOS</h3>
-            <h4>Cleriston Vilhena Advogados</h4>
-            <p>Av. Fab, 195.</p>
+            <h4></h4>
+            <p></p>
             <p>OAB/AP 3682</p>
             <div class="social-icons">
               <ul>
