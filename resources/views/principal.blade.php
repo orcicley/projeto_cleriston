@@ -341,12 +341,13 @@
     <div class="row">
       <div class="col-sm-4">
         <div class="our-team-section">
-          <div class="img-box"> <img src="images/dr_cleriston.png" alt="" title=""></div>
+          <div class="img-box"> <img src="images/cleriston3.jpg" alt="" title=""></div>
           <div class="team-info">
             <h3>Dr. Cleriston Vilhena</h3>
             <h4>
 Cleriston Vilhena Advogados</h4>
             <p>Av. Fab, 195.</p>
+            <p>OAB/AP 2269</p>
             <div class="social-icons">
               <ul>
                 <li><a href="https://web.facebook.com/cleriston.vilhena"><i class="fa fa-facebook"></i></a></li>
@@ -359,9 +360,9 @@ Cleriston Vilhena Advogados</h4>
       </div>
       <div class="col-sm-4">
         <div class="our-team-section">
-          <div class="img-box"> <img src="images/dr_keen.png" alt="" title=""></div>
+          <div class="img-box"> <img src="images/keen2.jpg" alt="" title=""></div>
           <div class="team-info">
-            <h3>KEEN MARQUES</h3>
+            <h3>Dr. KEEN MARQUES</h3>
             <h4>
 Cleriston Vilhena Advogados</h4>
             <p>Av. Fab, 195.</p>
@@ -378,11 +379,12 @@ Cleriston Vilhena Advogados</h4>
       </div>
       <div class="col-sm-4">
         <div class="our-team-section">
-          <div class="img-box"> <img src="images/samanta.jpg" alt="" title=""></div>
+          <div class="img-box"> <img src="images/samanta2.jpg" alt="" title=""></div>
           <div class="team-info">
-            <h3>SAMANTA DO NASCIMENTO</h3>
+            <h3>Dra. SAMANTA DO NASCIMENTO</h3>
             <h4>Cleriston Vilhena Advogados</h4>
             <p>Av. Fab, 195.</p>
+            <p>OAB/AP 3916</p>
             <div class="social-icons">
               <ul>
                 <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
@@ -393,6 +395,26 @@ Cleriston Vilhena Advogados</h4>
           </div>
         </div>
       </div>
+
+  <div class="col-sm-4">
+        <div class="our-team-section">
+          <div class="img-box"> <img src="images/alessandra.jpg" alt="" title=""></div>
+          <div class="team-info">
+            <h3>Dra. ALESSANDRA CAMPOS</h3>
+            <h4>Cleriston Vilhena Advogados</h4>
+            <p>Av. Fab, 195.</p>
+            <p>OAB/AP 3682</p>
+            <div class="social-icons">
+              <ul>
+                <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-skype"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>

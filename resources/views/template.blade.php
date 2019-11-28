@@ -1,6 +1,4 @@
 
-
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -75,7 +73,7 @@
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-              <a class="navbar-brand" href="index.html"><img src="images/associados.png" alt="Barrister"/></a> </div>
+              <a class="navbar-brand" href="index.html"><img src="images/logo2.png" alt="Barrister"/></a> </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
@@ -159,7 +157,7 @@
 <div class="footer-wrapper">
   <div class="container">
     <div class="row">
-      <div class="col-sm-6 col-md-4"> <img src="{{url('/')}}/images/associados.png" alt="" data-popupalt-original-title="null" title="">
+      <div class="col-sm-6 col-md-4"> <img src="{{url('/')}}/images/logo2.png" alt="" data-popupalt-original-title="null" title="">
         <p>O bem que praticas em qualquer lugar será teu advogado em toda parte. <a style="font-size: 12px; font-family:verdana; font-style: italic; font-color: white" >Emmanuel</a></p>
         <ul class="social-icons">
           <li><a href="javascript:void(0)"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -183,23 +181,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-sm-12 col-md-3">
-        <div class="form-section">
-            <h2><img src="{{url('/')}}/images/logo2.png" alt=""/>Faça Uma Pergunta</h2>
-            <form action="#">
-              <div class="form-group">
-                <input name="phone" placeholder="Fone" type="text">
-              </div>
-              <div class="form-group">
-                <input name="email" placeholder="Seu Endereço de EMAIL*" type="text">
-              </div>
-              <div class="form-group">
-                <input name="message" placeholder="Mensagem." type="text">
-              </div>
-              <button type="submit" class="btn">ENVIAR</button>
-            </form>
-        </div>
-      </div>
+     
     </div>
   </div>
 </div>
@@ -260,6 +242,19 @@
 
         <!-- custom scripts -->
         <script src="{{url('/')}}/js/scripts.js"></script>
+        <script type="text/javascript">
+        (function () {
+        var options = {
+            whatsapp: "+55(96)99108-1212", // WhatsApp number
+            call_to_action: "Fale Conosco Agora!", // Call to action
+            position: "right", // Position may be 'right' or 'left'
+        };
+        var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        })();
+    </script>
 
 
 </body>

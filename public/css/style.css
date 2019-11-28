@@ -2643,6 +2643,7 @@ div.faq-wrapper .panel-faq .panel-body {
 /* Nav */
 .navbar-nav > li {
 	padding: 0 14px;
+
 }
 /* Banner */
 .banner-wrapper .hero p {
@@ -3218,4 +3219,19 @@ nav.navbar.navbar-default.pull-right {
 .banner-wrapper .hero h3 {
   font-size: 15px;
 }
+}
+@media (max-width:767px){
+	.navbar-nav > li {
+		text-align:center;
+		border-bottom:1px solid;
+
+		
+	}
+	ul > .navbar-nav > li > a:hover{
+	background:khaki;
+
+	color:#222;
+	font-weight:bold;
+}
+
 }
