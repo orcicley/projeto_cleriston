@@ -136,9 +136,9 @@ div.title h2 {
 .m-top-50 {
 	margin-top: 100px !important;
 }
-/* Scroll Up */
+/* Scroll Up 
 #scrollUp {
-	background: #BEBEBE /*#601200; */
+	background: #BEBEBE /*#601200;
 	border-radius: 50%;
 	bottom: 20px;
 	color: #fff;
@@ -161,7 +161,7 @@ div.title h2 {
 }
 #scrollUp i {
 	display: block;
-	padding-top: 5px;
+	padding-top: 15px;
 }
 /* btn hover effect */
 .btn-one {
@@ -182,7 +182,7 @@ div.title h2 {
 	font-weight: 600;
 	text-transform: uppercase;
 }
-.btn-one:before {
+/**/.btn-one:before {
 	content: "";
 	position: absolute;
 	z-index: -1;
