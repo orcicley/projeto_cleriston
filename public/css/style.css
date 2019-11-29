@@ -307,7 +307,7 @@ header {
 	padding: 0;
 	margin: 24px 0 0 0;
 	box-shadow: none;
-	font-size: 16px;
+	font-size: 106px;
 	text-transform: uppercase;
 	border-radius: 0;
 	border-top: none;
@@ -328,7 +328,7 @@ header {
 	border: none;
 }
 .navbar-nav .care_down {
-	background:#dde68c;
+	
 	bottom: -8px;
 	display: block;
 	height: 5px;
@@ -343,9 +343,9 @@ header {
 .navbar-nav > li > .dropdown-menu li {
 	border: none;
 }
-.dropdown-menu > li > a {
+/**/.dropdown-menu > li > a {
 	color: #dde68c;
-	margin: 0;
+	margin: auto;
 	padding: 8px 20px;
 	font-size: 14px;
 	font-weight: 400;
@@ -354,11 +354,13 @@ header {
 	background:#231f20;
 	border-bottom-left-radius:15px;
 	border-bottom-right-radius:15px;
+	text-align:center;
 }
+/*Cor de fundo do drop down com letra*/
 .dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
 	text-decoration: none;
 	background: darkkhaki !important;
-	color: #222 !important;
+	color: #fff !important;
 	border: none !important;
 }
 /**** Book Us ****/
@@ -2987,23 +2989,24 @@ nav.navbar.navbar-default.pull-right {
 	border: none;
 	box-shadow: none;
 }
-.navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav.nav li:hover > a, .navbar-default .navbar-nav li.active > a:hover, .navbar-default .navbar-nav li.active > a:focus, .navbar-default .navbar-nav li.active > a, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover, .navbar-default .nav .open > a, .navbar-default .nav .open > a:focus, .navbar-default .nav .open > a:hover, .side-nav li > a:focus {
-	border: none;
-}
+
+/*Are que ainda não mexi*/
 .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
 		background: khaki !important;
-		color: #2a2a2a !important;
+		color: #222 !important;
 	}
+	/*cor da letra de fundo do dropdown*/
 .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-	color: #ffffff;
+	color: #fff;
 }
 .navbar-nav .open .dropdown-menu .dropdown-header, .navbar-nav .open .dropdown-menu > li > a {
 	font-size: 15px;
 	padding: 10px 15px 10px 25px;
 }
 .navbar-default .navbar-collapse, header.affix .navbar-default .navbar-collapse {
-	max-height: 370px;
+	max-height: 370px;*/
 }
+/*Are que ainda não mexi*/
 /*** banner ***/
 .banner-wrapper .hero {
 	  top: 30%;

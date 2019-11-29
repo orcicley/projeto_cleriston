@@ -73,28 +73,28 @@
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-              <a class="navbar-brand" href="index.html"><img src="images/logo2.png" alt="Barrister"/></a> </div>
+              <a class="navbar-brand" href="index.html"><img src="images/logo2.png" alt="Advogados"/></a> </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="{{url('/')}}">Início</a></li>
-                <li class="nav-item"><a href="{{url('/home')}}" class="nav-link">Sobre Nós</a></li>
-                <li class="dropdown"><a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-scroll-nav="2">Páginas <span class="caret"></span></a>
+                <li class="nav-item"><a href="{{url('/')}}">Início</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">Sobre Nós</a></li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"  >Páginas <span class="caret"></span></a>
                   <ul class="dropdown-menu">
-                    <li><a href="{{url('/contato')}}" data-scroll-nav="3">Sobre Nós</a></li>
-                    <li><a href="faq.html" data-scroll-nav="4">FAQ</a></li>
-                    <li><a href="our-team.html" data-scroll-nav="5">Equipe</a></li>
-                    <li><a href="gallery.html" data-scroll-nav="6">Galeria</a></li>
-                    <li><a href="404.html" data-scroll-nav="7">404</a></li>
+                    <li><a href="{{url('/contato')}}" >Sobre Nós</a></li>
+                    <li><a href="faq.html" >FAQ</a></li>
+                    <li><a href="our-team.html" >Equipe</a></li>
+                    <li><a href="gallery.html" >Galeria</a></li>
+                    <li><a href="404.html" >404</a></li>
                   </ul>
                 </li>
-                <li class="dropdown"><a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Serviços <span class="caret"></span></a>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"  >Serviços <span class="caret"></span></a>
                   <ul class="dropdown-menu">
                     <li><a href="services.html">Serviços</a></li>
                     <li><a href="service-details.html">Detalhes de Serviço</a></li>
                   </ul>
                 </li>
-                <li class="dropdown"><a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog <span class="caret"></span></a>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <span class="caret"></span></a>
                   <ul class="dropdown-menu">
                     <li><a href="blog.html">Blog</a></li>
                     <li><a href="blog-details.html">Blog Details</a></li>
